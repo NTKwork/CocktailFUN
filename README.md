@@ -1,4 +1,4 @@
-![salam](https://github.com/NTKwork/CocktailFUN/blob/master/web_hi_res_512.png)
+![salam](https://github.com/NTKwork/CocktailFUN/blob/master/ic_launcher.png)
 <!DOCTYPE html>
 <html>
 <head>
